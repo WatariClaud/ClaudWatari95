@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a fullstack developer with fluency in JavaScript (Node/Express, ReactJs and Angular, with testing in Mocha/Chai), Dart (Flutter), Version control (GIT) and Continous Integration (Travis CI)
+- 🔭 I’m a fullstack developer with fluency in JavaScript (Node/Express, ReactJs and Angular, with testing in Mocha/Chai & supertest), Dart (Flutter), Version control (GIT) and Continous Integration (Travis CI)
 - 🌱 Currently learning DSA :'(
 - 👯 I’m looking to collaborate on fullstack projects. Currently building @RePay.Africa
 
