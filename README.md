@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋!+My+Name+is+Claud+Watari)](https://git.io/typing-svg)
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi+there+👋!+My+Name+is+Claud+Watari)](https://git.io/typing-svg)
+
 
 - 🔭 I’m a fullstack Software Developer experienced in { 'NodeJs', 'Django', 'Laravel', 'Dart' }
 - I work mostly in backend, with fluency in relational databases and cloud { 'AWS', 'GCP', 'Heroku' }
