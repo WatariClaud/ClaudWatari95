@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hi+there+👋!+My+Name+is+Claud+Watari)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&pause=5&lines=Hi+there+👋!+My+Name+is+Claud+Watari)](https://git.io/typing-svg)
 
 
 - 🔭 I’m a fullstack Software Developer experienced in { 'NodeJs', 'Django', 'Laravel', 'Dart' }
